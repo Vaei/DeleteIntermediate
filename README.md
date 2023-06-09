@@ -7,7 +7,7 @@ This is an exceedingly simple C# helper application. Check Program.cs to view th
 
 Helpful for cleaning a project.
 
-[See the sister application here to delete Binaries folders.](https://github.com/Vaei/DeleteIntermediate)
+[See the sister application here to delete Binaries folders.](https://github.com/Vaei/DeleteBinaries)
 
 ## How to Use
 
